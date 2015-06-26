@@ -1,0 +1,8 @@
+# Webpack+React+ReactBootstrop
+
+- 1.npm install 安装所需要的包
+- 2.webpack 执行 打包
+- 3.运行 node server.js ，然后 打开127.0.0.1：3003 查看效果
+
+- 具体控件效果可以查看react-bootstrap官网资料
+
