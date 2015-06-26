@@ -5,4 +5,5 @@
 - 3.运行 node server.js ，然后 打开127.0.0.1：3003 查看效果
 
 - 具体控件效果可以查看react-bootstrap官网资料
+- 多上传了Node_Modules文件夹，可以删掉再执行 npm install
 
